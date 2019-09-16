@@ -74,7 +74,7 @@ Exceptions thrown
 
 Source Code
 ===========
-See the source code for method [BabyYamlDatabase::checkConstraints](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L323-L402)
+See the source code for method [BabyYamlDatabase::checkConstraints](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L333-L412)
 
 
 See Also

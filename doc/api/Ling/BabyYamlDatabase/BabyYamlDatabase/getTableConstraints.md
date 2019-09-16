@@ -49,7 +49,7 @@ Returns array.
 
 Source Code
 ===========
-See the source code for method [BabyYamlDatabase::getTableConstraints](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L231-L243)
+See the source code for method [BabyYamlDatabase::getTableConstraints](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L241-L253)
 
 
 See Also

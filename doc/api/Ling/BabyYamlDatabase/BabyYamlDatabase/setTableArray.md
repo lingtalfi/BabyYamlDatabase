@@ -53,7 +53,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [BabyYamlDatabase::setTableArray](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L210-L222)
+See the source code for method [BabyYamlDatabase::setTableArray](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L220-L232)
 
 
 See Also

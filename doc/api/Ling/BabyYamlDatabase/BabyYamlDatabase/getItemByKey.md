@@ -58,7 +58,7 @@ Returns array | false.
 
 Source Code
 ===========
-See the source code for method [BabyYamlDatabase::getItemByKey](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L87-L96)
+See the source code for method [BabyYamlDatabase::getItemByKey](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L97-L106)
 
 
 See Also

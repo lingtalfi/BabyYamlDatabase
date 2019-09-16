@@ -60,7 +60,7 @@ Returns bool.
 
 Source Code
 ===========
-See the source code for method [BabyYamlDatabase::updateItemByKey](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L116-L139)
+See the source code for method [BabyYamlDatabase::updateItemByKey](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L126-L149)
 
 
 See Also

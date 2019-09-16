@@ -62,7 +62,7 @@ Exceptions thrown
 
 Source Code
 ===========
-See the source code for method [BabyYamlDatabase::insert](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L75-L82)
+See the source code for method [BabyYamlDatabase::insert](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L75-L92)
 
 
 See Also

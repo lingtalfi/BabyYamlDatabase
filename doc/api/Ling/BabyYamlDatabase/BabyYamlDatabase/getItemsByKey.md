@@ -56,7 +56,7 @@ Returns array.
 
 Source Code
 ===========
-See the source code for method [BabyYamlDatabase::getItemsByKey](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L101-L111)
+See the source code for method [BabyYamlDatabase::getItemsByKey](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L111-L121)
 
 
 See Also

@@ -74,11 +74,21 @@ class BabyYamlDatabase implements BabyYamlDatabaseInterface
      */
     public function insert(string $table, array $row)
     {
+        $ret = null;
         $tableArr = $this->getTableArray($table);
         $this->checkConstraints($table, $row, $tableArr);
         array_push($tableArr, $row);
         $this->sortTable($tableArr);
         $this->setTableArray($table, $tableArr);
+
+
+        $ak = $this->_ak;
+
+        if ($ak) {
+            $ret = $row[$this->_ak] ?? null;
+        }
+
+        return $ret;
     }
 
     /**

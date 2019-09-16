@@ -54,7 +54,7 @@ Returns bool.
 
 Source Code
 ===========
-See the source code for method [BabyYamlDatabase::deleteItemByKey](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L144-L155)
+See the source code for method [BabyYamlDatabase::deleteItemByKey](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L154-L165)
 
 
 See Also

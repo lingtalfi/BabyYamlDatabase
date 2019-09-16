@@ -46,7 +46,7 @@ Returns array.
 
 Source Code
 ===========
-See the source code for method [BabyYamlDatabase::getConfiguration](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L462-L468)
+See the source code for method [BabyYamlDatabase::getConfiguration](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L472-L478)
 
 
 See Also

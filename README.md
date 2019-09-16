@@ -113,6 +113,10 @@ config:
 History Log
 =============
 
+- 1.0.1 -- 2019-09-16
+
+    - fix BabyYamlDatabase->insert not returning a value
+
 - 1.0.0 -- 2019-09-16
 
     - initial commit
