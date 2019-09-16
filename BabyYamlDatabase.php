@@ -158,8 +158,11 @@ class BabyYamlDatabase implements BabyYamlDatabaseInterface
         $index = $this->getIndexByKey($tableArr, $key);
         if (null !== $index) {
             unset($tableArr[$index]);
+
             $ret = true;
         }
+        $tableArr = array_merge($tableArr);
+
         $this->setTableArray($table, $tableArr);
         return $ret;
     }
@@ -427,8 +430,6 @@ class BabyYamlDatabase implements BabyYamlDatabaseInterface
     protected function sortTable(array &$tableItems)
     {
         $ak = $this->_ak;
-
-
         // sort the array if necessary
         if (null !== $ak) {
             usort($tableItems, function ($row1, $row2) use ($ak) {

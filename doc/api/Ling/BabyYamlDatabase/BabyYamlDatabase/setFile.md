@@ -49,7 +49,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [BabyYamlDatabase::setFile](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L176-L179)
+See the source code for method [BabyYamlDatabase::setFile](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L179-L182)
 
 
 See Also

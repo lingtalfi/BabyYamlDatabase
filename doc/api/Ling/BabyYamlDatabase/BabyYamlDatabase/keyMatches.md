@@ -59,7 +59,7 @@ Exceptions thrown
 
 Source Code
 ===========
-See the source code for method [BabyYamlDatabase::keyMatches](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L288-L311)
+See the source code for method [BabyYamlDatabase::keyMatches](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L291-L314)
 
 
 See Also

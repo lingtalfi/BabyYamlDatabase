@@ -50,7 +50,7 @@ Returns array.
 
 Source Code
 ===========
-See the source code for method [BabyYamlDatabase::getTableArray](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L202-L211)
+See the source code for method [BabyYamlDatabase::getTableArray](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L205-L214)
 
 
 See Also

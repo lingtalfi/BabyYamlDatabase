@@ -54,7 +54,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [BabyYamlDatabase::sortTable](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L427-L438)
+See the source code for method [BabyYamlDatabase::sortTable](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L430-L439)
 
 
 See Also

@@ -57,7 +57,7 @@ Returns bool.
 
 Source Code
 ===========
-See the source code for method [BabyYamlDatabase::haveSameRic](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L449-L464)
+See the source code for method [BabyYamlDatabase::haveSameRic](https://github.com/lingtalfi/BabyYamlDatabase/blob/master/BabyYamlDatabase.php#L450-L465)
 
 
 See Also
